@@ -12,11 +12,11 @@ public class ReviewTests {
 		entity.setId(1L);
 		entity.setText("Text");
 		entity.setMovie(new Movie());
-		entity.setUser(new User());
+	//	entity.setUser(new User());
 	
 		Assertions.assertNotNull(entity.getId());
 		Assertions.assertNotNull(entity.getText());
 		Assertions.assertNotNull(entity.getMovie());
-		Assertions.assertNotNull(entity.getUser());
+		//Assertions.assertNotNull(entity.getUser());
 	}
 }
