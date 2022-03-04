@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/marcelopn/Apps/Dev_Superior/5.0Consultas-ao-banco-de-dados/Exercise-to-delivery/bds06Work/bds06/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1299920892.index
+1877285684.index
